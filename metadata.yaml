@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '491'
     url: http://www.gutenberg.org/2009/agents/491
     wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+covers:
+- cover_type: archival
+  image_path: 54214-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Baldwin, James
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1982
     wikipedia: http://en.wikipedia.org/wiki/James_Baldwin_(editor_and_author)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54214#A-Story-of-the-Golden-Age
 gutenberg_issued: '2017-02-20'
 gutenberg_type: Text
 identifiers:
